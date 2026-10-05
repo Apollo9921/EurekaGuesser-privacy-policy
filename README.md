@@ -1,6 +1,6 @@
 **Privacy Policy**
 
-This privacy policy is applicable to the Quiz Rise app for mobile devices, together with any related services operated by Apollo9921 (collectively, the "Application"). Apollo9921 is hereinafter referred to as the "Service Provider".
+This privacy policy is applicable to the Eureka Guesser app for mobile devices, together with any related services operated by Apollo9921 (collectively, the "Application"). Apollo9921 is hereinafter referred to as the "Service Provider".
 
 **Data Controller Information**
 
